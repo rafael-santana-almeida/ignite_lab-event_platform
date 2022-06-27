@@ -23,6 +23,7 @@ Este é um projeto de uma plataforma de evento com controle de aulas desenvolvid
 * :x: Tornar o projeto responsivo
 * :x: Melhorar o genreciamento de formulário, usando alguma biblioteca como React Hook Form
 * :x: Adicionar tratativa de campos do formulário
+* :x: Adicionar validação para que só seja possível acessar a rota <strong>/event</strong> se o usuário estiver logado com Github
 
 ## :rocket: Como executar
 Para executar a aplicação, siga os passos abaixo.
