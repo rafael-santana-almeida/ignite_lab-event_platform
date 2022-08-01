@@ -2,8 +2,8 @@
 Este é um projeto de uma plataforma de evento com controle de aulas desenvolvido durante o evento Ignite Lab da Rocketseat.
 
 ## :trophy: Links do projeto
-* Projeto: https://ignite-lab-event-platform-rouge.vercel.app/
-* Layout: https://www.figma.com/file/Jo0mz7vt7C03djze2bBfyi/Plataforma-de-evento-Ignite-Lab
+* [Projeto](https://ignite-lab-event-platform-rouge.vercel.app/)
+* [Layout](https://www.figma.com/file/Jo0mz7vt7C03djze2bBfyi/Plataforma-de-evento-Ignite-Lab)
 
 ## :wrench: Tecnologias/libs utilizadas
 * :white_check_mark: ReactJS
